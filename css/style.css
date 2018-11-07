@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+.modal-bg{
+    position: absolute;
+    align-self: center;
+   right: 0;
+   left: 0;
+   margin: auto;
+   top: 0;
+   bottom: 0;
+    z-index: 100;
+    width: 300px;
+    height: 300px;
+    background-color: rgba(8, 150, 3, 0.692);
+    border-radius: 5%;
+    align-content: center;
+}
+
+.win-text{
+    font-size: 30px;
+    color: azure;
+   
+}
+
+
+.replay-btn{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 5px;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: auto;
+    top: 100px;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin-top: 15px;
+}
+
+/*pricess image on pop up modal*/
+
+.win-img{
+    margin: auto;
+    left: 0;
+    top: 25px;
+    right: 0;
+    position: absolute;
+}
+
