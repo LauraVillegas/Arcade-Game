@@ -7,7 +7,7 @@ Summer is back!! and with such high temperatures our hero really needs to go for
 To clone this game open your terminal, navigate to the folder where you save your games and run the following code:
 
 ```
-clone https://github.com/LauraVillegas/Arcade-Game.git
+git clone https://github.com/LauraVillegas/Arcade-Game.git
 ```
 
 or click [here](https://github.com/LauraVillegas/Arcade-Game/archive/master.zip) to Download.
